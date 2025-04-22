@@ -1,5 +1,6 @@
 # Logistica
 Tener en cuenta los siguientes factores a contribuir:
+
 Estilo de código
 Documentación
 Pruebas
